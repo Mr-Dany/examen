@@ -1,0 +1,20 @@
+#menu1 li{
+  display: inline-block;
+  padding: 5px; 
+}
+#menu1 a{
+  text-decoration: none;
+  color: black;
+}
+#menu1{
+  background-color: #A4A4A4;
+  padding: 30px;
+  text-align: center;
+}
+#menu1 li:hover{
+  background-color: #FFFFFF;
+}
+
+#pie{
+  background-color: #44F40E
+}
