@@ -43,9 +43,9 @@ footer{
 .colum1 p{
   font-size: 14px;
   color: #C7C7C7;
-  margin-top: 20px;
+  margin:20px;
   padding: 20px;
-  text-align: justify;
+  text-align: left;
 }
 .colum2{
   max-width: 400%;
